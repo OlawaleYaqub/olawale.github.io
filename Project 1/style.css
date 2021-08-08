@@ -1,0 +1,72 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2f3035;
+    background-image: url(images/african-american-woman-in-jacket-with-hands-in-pockets-looking-at-picture-id1207472153);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+.container{
+    margin-right:auto;
+    margin-left:auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    text-align: center;
+    
+}
+nav{
+    background: rgba(0, 0, 0, 0.338);
+    padding-top: 14px;
+    padding-bottom: 14px;  
+    text-align: center;
+    
+
+}
+main{
+ 
+    height: 400px;
+    text-align: center;
+    padding-top:80px ;
+    padding-right:240px ;
+    padding-left:240px;
+}
+footer{
+    background: rgba(0, 0, 0, 0.514);
+    
+    
+}
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-decoration: white; */
+}
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
